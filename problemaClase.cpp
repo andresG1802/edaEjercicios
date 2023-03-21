@@ -14,8 +14,10 @@ int main(){
 
 	int opc;
 	int dato,datoBuscar;
-
+	
 	Nodo *frente = NULL;
+	
+	
 	Nodo *fin = NULL;
 
 	do{
