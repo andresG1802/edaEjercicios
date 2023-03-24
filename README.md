@@ -1,6 +1,6 @@
 # Ejercicios a resolver
-## Colas (Queues)
 
+## Linked Lists
 1. Insertar un nodo al principio de una linked list.
 
 
@@ -21,6 +21,8 @@
 5. Encontrar el valor máximo en una linked list.
 
 - Solucion
+
+## Colas (Queues)
 
 1. Problema de "cola básica": Implementa una cola básica utilizando la clase queue de C++. La cola debe ser capaz de agregar elementos al final y eliminar elementos del frente. Además, la cola debe ser capaz de imprimir su contenido.
 
