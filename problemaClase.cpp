@@ -1,15 +1,18 @@
 #include<iostream>
 #include<stdlib.h>
+
 using namespace std;
 
 struct Nodo{
 	int dato;
 	Nodo *siguiente;
 };
+
 void insertarCola(Nodo *&,Nodo *&,int);
 bool cola_vacia(Nodo *);
 void suprimirCola(Nodo *&,Nodo *&,int &);
 void bfs(Nodo *&,Nodo *&,int &,int &);
+
 int main()
 {
 	int opc;
