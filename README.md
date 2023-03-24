@@ -1,6 +1,27 @@
 # Ejercicios a resolver
 ## Colas (Queues)
 
+1. Insertar un nodo al principio de una linked list.
+
+
+- Solucion
+
+2. Eliminar un nodo al final de una linked list.
+
+- Solucion
+
+3. Encontrar el número de nodos en una linked list.
+
+- Solucion
+
+4. Encontrar la suma de todos los elementos en una linked list.
+
+- Solucion
+
+5. Encontrar el valor máximo en una linked list.
+
+- Solucion
+
 1. Problema de "cola básica": Implementa una cola básica utilizando la clase queue de C++. La cola debe ser capaz de agregar elementos al final y eliminar elementos del frente. Además, la cola debe ser capaz de imprimir su contenido.
 
 - Solucion:
